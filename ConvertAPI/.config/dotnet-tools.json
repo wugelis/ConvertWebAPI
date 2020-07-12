@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "convertwebapi": {
+      "version": "1.0.1",
+      "commands": [
+        "ConvertWebAPI"
+      ]
+    }
+  }
+}

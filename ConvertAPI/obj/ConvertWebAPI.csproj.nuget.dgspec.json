@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Temp\\.NET Conf 2019 Labs\\Core3\\PublishByGithub\\ConvertAPI\\ConvertWebAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\Temp\\.NET Conf 2019 Labs\\Core3\\PublishByGithub\\ConvertAPI\\ConvertWebAPI.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "D:\\Temp\\.NET Conf 2019 Labs\\Core3\\PublishByGithub\\ConvertAPI\\ConvertWebAPI.csproj",
+        "projectName": "ConvertWebAPI",
+        "projectPath": "D:\\Temp\\.NET Conf 2019 Labs\\Core3\\PublishByGithub\\ConvertAPI\\ConvertWebAPI.csproj",
+        "packagesPath": "C:\\Users\\Gelis\\.nuget\\packages\\",
+        "outputPath": "D:\\Temp\\.NET Conf 2019 Labs\\Core3\\PublishByGithub\\ConvertAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gelis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
